@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+snapsearch.db
+images/
+docs/

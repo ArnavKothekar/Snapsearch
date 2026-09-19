@@ -1,0 +1,9 @@
+# Note: on Windows, a bare `pip install torch` installs the CPU build.
+# CUDA build used here:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch
+open-clip-torch
+streamlit
+pillow
+numpy
+tqdm
